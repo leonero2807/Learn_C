@@ -1,3 +1,4 @@
+//H
 // idea: Tinh tong các so le:
 // 1. Nhap duoc mang 
 // 2. Khoi tao bien SUM = 0;
